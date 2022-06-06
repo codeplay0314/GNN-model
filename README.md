@@ -1,1 +1,0 @@
-# GNN-for-CTR-prediction
